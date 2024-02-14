@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    background-image: url(7.gif);
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.row{
+    color: darkgoldenrod;
+}
+img{
+    border-radius: 10px;
+}
